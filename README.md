@@ -8,7 +8,7 @@
 
 - 🎮 Aspiring indie game developer
 
-- 📫 How to reach me : e-mail : **iannaki.developer@gmail.com**
+- 📫 How to reach me : e-mail : **officialxaal@gmail.com**
                         Discord : @xaal
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
