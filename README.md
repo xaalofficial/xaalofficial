@@ -11,4 +11,4 @@
 - 📫 How to reach me : e-mail : **officialxaal@gmail.com**
                         Discord : @xaal
 
-<img align="center" alt="GIF" src="https://github.com/xaalofficial/xaalofficial/blob/main/mygif.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/xaalofficial/xaalofficial/blob/main/mygif.gif" />
