@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Jihad Zeggai </h1>
 
-<!--
-**xaalofficial/xaalofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🎓 Software Engineering student | 👨‍🎓 DUT in Embedded Software Development | 🧠🎶 Fascinated by AI music analysis | 📝 Fantasy writer in the making </h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on  : 💡 Finding a problem that can be solved using SaaS 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning : Web Development 💻🌐
+
+- 🎮 Aspiring indie game developer
+
+- 📫 How to reach me : e-mail : **iannaki.developer@gmail.com**
+                        Discord : @xaal
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
