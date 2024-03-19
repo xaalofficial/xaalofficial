@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Jihad Zeggai </h1>
 
-<h3 align="center">🎓 Software Engineering student | 👨‍🎓 DUT in Embedded Software Development | 🧠🎶 Fascinated by AI music analysis | 📝 Fantasy writer in the making </h3>
+<h3 align="center">🎓 Software Engineering student | 👨‍🎓 DUT in Embedded Software Development | 🧠🎶 Producer Fascinated by AI music analysis | 📝 Fantasy writer in the making </h3>
 
 - 🔭 I’m currently working on  : 💡 Finding a problem that can be solved using SaaS 💡
 
