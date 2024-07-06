@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Jihad Zeggai </h1>
+<h1>Hi 👋, I'm Jihad </h1>
 
 <h3 align="center">🎓 Software Engineering student | 👨‍🎓 DUT in Embedded Software Development | 🧠🎶 Producer Fascinated by AI music analysis | 📝 Fantasy writer in the making </h3>
 
