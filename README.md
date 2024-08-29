@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning : Web Development 💻🌐
 
-- 🎮 Aspiring indie game developer
-
 - 📫 How to reach me : e-mail : **officialxaal@gmail.com**
                         Discord : @xaal
 
