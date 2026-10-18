@@ -1,8 +1,8 @@
 <h1>Hi 👋, I go by Xaal</h1>
 
-<h3 align="center">🎓 Software Engineering student | 👨‍🎓 DUT in Embedded Software Development | 🏀 NBA fan | 🧙 Fantasy enjoyer</h3>
+<h3 align="center">🎓 Software Engineer | 👨‍🎓 DUT in Embedded Software Engineering | 🏀 NBA fan | 🧙 Fantasy enjoyer</h3>
 
-- 🔭 I’m currently a Frontend Engineer Intern 
+- 🔭 I’m currently a Frontend Engineer 
 - 🌱 I’m currently improving my skills in: **Frontend Engineering, UI/UX, System Design**  
 - 🚀 I'm passionate about building web apps that are not only functional but also **intuitive, visually appealing, and fun to use**  
 - 💡 My focus is on creating **user-centered designs** and improving **web application experiences**
